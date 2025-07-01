@@ -57,8 +57,8 @@ To get started with this documentation project:
 
 ## 👤 Author
 
-**Osagie Uwaila (Ycee)**
-[GitHub Profile](https://github.com/ycee002)
+* **Osagie Uwaila (Ycee)**
+* [GitHub Profile](https://github.com/ycee002)
 
 ---
 
