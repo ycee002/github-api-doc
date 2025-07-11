@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "07d97e5c-b390-4a1e-8052-cb2a7b2fa37e",
+		"_postman_id": "4b6e81df-0bb4-43dd-b54a-634317899c1a",
 		"name": "Github API",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "42251888"
@@ -48,7 +48,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "",
+									"value": "{{BEARER_TOKEN}}",
 									"type": "string"
 								}
 							]
